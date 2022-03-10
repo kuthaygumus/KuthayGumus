@@ -52,10 +52,10 @@
 ## Connect with me:
 <p align="left">
 
-<a href ="https://www.linkedin.com/in/kuthaygumus/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href ="https://twitter.com/kuthaygumus" target="blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href ="https://www.instagram.com/kuthaygumus/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href ="https://stackoverflow.com/users/1945623" target="blank"><img src="https://img.icons8.com/fluent/48/000000/stackoverflow.png"/></a>
+<a href ="https://www.linkedin.com/in/kuthaygumus/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href ="https://twitter.com/kuthaygumus" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href ="https://www.instagram.com/kuthaygumus/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href ="https://stackoverflow.com/users/1945623" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/stackoverflow.png"/></a>
 
 </p>
 
