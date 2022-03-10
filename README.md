@@ -1,9 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kuthay</h1>
 <h3 align="center">Passionate Software Engineer from Planet Earth 🌍</h3>
-<br/>
 
 ## 🙋‍♂️ About Me
-<br/>
 
 - 🔭 I’m currently working on **[Amadeus](https://amadeus.com/)**
 
@@ -14,10 +12,7 @@
 - ⚡ Fun fact **I'm big fan of Lord of the Rings and Friends**
 <br/>
 
-<br/>
-
 ## 🚀 My Tech Stack:
-<br/>
 <p>
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
@@ -46,13 +41,13 @@
 
 <br/>
 
-<!-- ## 📊 Github Stats
+## 📊 Github Stats
 
   <br/>
    <a href="https://github.com/kuthaygumus/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kuthaygumus&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/kuthaygumus/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuthaygumus&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-<br/> -->
+<br/>
 
 ## Connect with me:
 <p align="left">
