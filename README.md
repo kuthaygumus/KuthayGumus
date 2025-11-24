@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **[Amadeus](https://amadeus.com/)**
 
-- 🧐 Interested in **Web & Mobile Application Development**
+- 🧐 Interested in **AI, Web & Mobile Application Development**
 
-- 💬 Ask me about **angular, typescript, .net, azure & ios**
+- 💬 Ask me about **AI, angular, typescript, .net, azure & ios**
 
 - ⚡ Fun fact **I'm big fan of Lord of the Rings and Friends**
 <br/>
